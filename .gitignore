@@ -45,7 +45,13 @@
 *_summary.xml
 *_usage.xml
 *_xst.xrpt
-
+*.xise
+*.exe
+*.wdb
+*.log
+*.cmd
+*.xmsgs
+*.ini
 # iMPACT generated files
 _impactbatch.log
 impact.xsl
@@ -69,6 +75,6 @@ xlnx_auto_0_xdb/
 xst/
 _ngo/
 _xmsgs/
-
+isim/
 
 # End of https://www.gitignore.io/api/xilinxise

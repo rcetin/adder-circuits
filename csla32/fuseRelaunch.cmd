@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/rcetin/workspace/ISE_workspace/csla32/csla32_tb_isim_beh.exe" -prj "/home/rcetin/workspace/ISE_workspace/csla32/csla32_tb_beh.prj" "work.csla32_tb" "work.glbl" 
