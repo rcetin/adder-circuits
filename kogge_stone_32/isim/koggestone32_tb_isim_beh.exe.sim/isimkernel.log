@@ -1,0 +1,29 @@
+Command line:
+   koggestone32_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58333
+
+Sat Apr 14 19:19:56 2018
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 198.48 Meg
+
+ Total Signals          : 1196
+ Total Nets             : 632
+ Total Signal Drivers   : 494
+ Total Blocks           : 197
+ Total Primitive Blocks : 195
+ Total Processes        : 497
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 777
+Total Line Count : 23
+
+ Total Simulation Time: 0.03 sec
+
+ Current Memory Usage: 273.981 Meg
+
+Sat Apr 14 19:20:06 2018
+
